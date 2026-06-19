@@ -22,9 +22,9 @@ I am a dedicated full-stack developer passionate about building scalable applica
 
 ## Featured Projects
 
-**🚗 Ride-Together**  
+**🚗 ROUTE_MATE**  
 A ride-pooling application built with TypeScript and FastAPI for efficient carpooling.  
-[Repository](https://github.com/sejal-176/ride-together)
+[Repository](https://github.com/sejal-176/ROUTE_MATE)
 
 **🏪 VJTI Store Management System**  
 Complete store management solution featuring real-time inventory tracking with FastAPI backend and Supabase database.  
