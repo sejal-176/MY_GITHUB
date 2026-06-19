@@ -25,9 +25,9 @@ I'm a **Full-Stack Developer** with expertise in modern web technologies. I love
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -48,7 +48,7 @@ A ride-pooling application built with TypeScript for efficient carpooling and sh
 - 🔗 [Repository](https://github.com/sejal-176/ride-together)
 
 ### 🏪 **VJTI Store Management System**
-Complete store management solution for inventory tracking and sales.
+Complete store management solution for inventory tracking and sales with FastAPI backend and Supabase database.
 - 🔗 [Repository](https://github.com/sejal-176/VJTI-store-management-system)
 
 ### 🏗️ **ArchiTech**
@@ -57,16 +57,16 @@ Architecture and design patterns project showcasing best practices.
 - 🔗 [Deployment](https://github.com/sejal-176/architech_my)
 
 ### 💼 **HackManager**
-A comprehensive hackathon management system built during hackathon competition.
+A comprehensive hackathon management system built during hackathon competition with FastAPI and Supabase.
 - 🔗 [Repository](https://github.com/sejal-176/HackManager-DJS-)
 - **Description**: HACKATHON PROJECT - HACKMANAGER
 
 ### 🤖 **AI-PLAN**
-AI-powered planning and prediction system.
+AI-powered planning and prediction system using FastAPI backend.
 - 🔗 [Repository](https://github.com/sejal-176/AI-PLAN)
 
 ### 🛒 **Node-React E-Commerce**
-Full-stack e-commerce platform built with Node.js, React, and MongoDB - similar to Amazon.
+Full-stack e-commerce platform built with React, FastAPI, and Supabase - similar to Amazon.
 - 🔗 [Repository](https://github.com/sejal-176/node-react-ecommerce)
 
 ### 🔐 **Cybersecurity Projects**
@@ -86,10 +86,10 @@ I actively participate in hackathons and have worked on several innovative proje
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| **HACKATHON** | Ride Pool App Model Creation | TypeScript |
-| **HACKATHON_2** | Risk Predictor | TypeScript |
-| **HACKATHON_66** | Risk Predictor v2 | TypeScript |
-| **HackManager** | Hackathon Management System | TypeScript, Node.js |
+| **HACKATHON** | Ride Pool App Model Creation | TypeScript, FastAPI, Supabase |
+| **HACKATHON_2** | Risk Predictor | TypeScript, Python |
+| **HACKATHON_66** | Risk Predictor v2 | TypeScript, FastAPI |
+| **HackManager** | Hackathon Management System | React, FastAPI, Supabase |
 
 ---
 
@@ -110,8 +110,8 @@ I'm constantly learning and practicing new concepts:
 ### Development Skills
 - ✅ Full-Stack Web Development
 - ✅ Frontend Development with React & TypeScript
-- ✅ Backend Development with Node.js
-- ✅ Database Design (MongoDB, SQL)
+- ✅ Backend Development with FastAPI & Python
+- ✅ Database Design (Supabase, PostgreSQL)
 - ✅ API Design & Development
 - ✅ Version Control (Git/GitHub)
 
@@ -129,5 +129,51 @@ I'm constantly learning and practicing new concepts:
 - 🤝 Team Player
 
 ---
+## 📊 GitHub Stats
+
+
+---
+
+## 🌱 Currently Learning
+
+- 🚀 Advanced TypeScript patterns
+- 🤖 Machine Learning & AI applications with Python
+- 🏗️ System Design & Scalability with FastAPI
+- 🔐 Advanced Cybersecurity concepts
+- 📱 Mobile Development
+- 🗄️ Advanced Supabase & PostgreSQL optimization
+
+---
+
+## 🎯 Goals
+
+- Build scalable, production-grade applications with modern tech stack
+- Contribute to open-source projects
+- Continuously improve problem-solving skills
+- Master new technologies and frameworks
+- Create impactful solutions for real-world problems
+
+---
+
+## 📫 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-sejal--176-181717?style=for-the-badge&logo=github)](https://github.com/sejal-176)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sejal-176)
+
+---
+
+## 💬 Let's Collaborate!
+
+I'm always open to collaborating on interesting projects, participating in hackathons, or discussing tech topics. Feel free to reach out! 🚀
+
+---
+
+### ⭐ Fun Fact
+I love participating in hackathons and have built multiple innovative projects during competitions. I'm passionate about learning new technologies and turning ideas into reality!
+
+---
+
+**Last Updated:** 2026
+**Profile Status:** 🟢 Active & Learning
 
 ## 📊 GitHub Stats
