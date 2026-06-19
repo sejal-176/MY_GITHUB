@@ -36,7 +36,7 @@ Hackathon management platform developed in 24 hours. Features real-time leaderbo
 
 **🏗️ ArchiTech**  
 Architecture and design patterns implementation showcasing system design best practices.  
-[Repository](https://github.com/sejal-176/architech)
+[Repository](https://github.com/Shreysk21/architech)
 
 ---
 
