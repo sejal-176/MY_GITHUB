@@ -1,4 +1,4 @@
-# Sejal
+# Hey, I am Sejal
 
 **Full-Stack Developer | Hackathon Participant | TypeScript & Python Enthusiast**
 
@@ -83,7 +83,7 @@ I have participated in multiple hackathons and developed several innovative proj
 ## Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-sejal--176-181717?style=flat-square&logo=github)](https://github.com/sejal-176)  
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sejal-176)
 
 ---
 
